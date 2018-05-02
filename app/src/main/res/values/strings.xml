@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LackOfInternet</string>
+    <string name="str_mobile">Мобильное подключение</string>
+    <string name="str_wifi">Подключение к сети WiFi</string>
+    <string name="str_unknown">Неизвестное подключение</string>
+    <string name="str_no_conn">Подключение отсутствует</string>
 </resources>
